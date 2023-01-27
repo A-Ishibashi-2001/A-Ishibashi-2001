@@ -3,8 +3,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-Ishibashi-2001&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Ishibashi-2001&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Ishibashi-2001&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=A-Ishibashi-2001&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=A-Ishibashi-2001&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=A-Ishibashi-2001&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=A-Ishibashi-2001&theme=dracula&utcOffset=8)
 
 <!--
 **A-Ishibashi-2001/A-Ishibashi-2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
