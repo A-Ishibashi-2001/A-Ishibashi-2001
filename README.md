@@ -1,11 +1,11 @@
 <!--### Hi there 👋-->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ishibashi-cgp&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishibashi-cgp&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishibashi-cgp&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-Ishibashi-2001&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Ishibashi-2001&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Ishibashi-2001&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**Ishibashi-cgp/Ishibashi-cgp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**A-Ishibashi-2001/A-Ishibashi-2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
